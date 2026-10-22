@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node --experimental-strip-types index.js",
     "lab:heap": "node --experimental-strip-types labs/heap/index.ts",
-    "lab:dictionary": "node --experimental-strip-types labs/dictionary/index.ts"
+    "lab:dictionary": "node --experimental-strip-types labs/dictionary/index.ts",
+    "lab:suffix-tree": "node --experimental-strip-types labs/suffix-tree/index.ts"
   },
   "engines": {
     "node": ">=22.6"
